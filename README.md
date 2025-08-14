@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0136-single-number](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0338-counting-bits) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0191-number-of-1-bits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
