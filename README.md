@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0136-single-number](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0191-number-of-1-bits) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
