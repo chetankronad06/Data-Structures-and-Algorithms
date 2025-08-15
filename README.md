@@ -18,12 +18,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0204-count-primes) |
+| [0283-move-zeroes](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
