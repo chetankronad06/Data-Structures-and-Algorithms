@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0024-swap-nodes-in-pairs) |
 | [0231-power-of-two](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
 ## Enumeration
 |  |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0204-count-primes) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
