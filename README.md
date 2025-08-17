@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
