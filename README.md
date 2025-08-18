@@ -89,4 +89,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0908-middle-of-the-linked-list) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
