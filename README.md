@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
