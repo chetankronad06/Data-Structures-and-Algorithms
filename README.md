@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
+| [0567-permutation-in-string](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0908-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
+| [0567-permutation-in-string](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0242-valid-anagram) |
+| [0567-permutation-in-string](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0567-permutation-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
@@ -127,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
