@@ -109,10 +109,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0242-valid-anagram) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Design
 |  |
 | ------- |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0860-design-circular-queue](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0860-design-circular-queue) |
+## Simulation
+|  |
+| ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/2021-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
