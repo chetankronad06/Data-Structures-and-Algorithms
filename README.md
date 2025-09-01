@@ -122,16 +122,19 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0232-implement-queue-using-stacks) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Design
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0232-implement-queue-using-stacks) |
 | [0860-design-circular-queue](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0860-design-circular-queue) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0232-implement-queue-using-stacks) |
 | [0860-design-circular-queue](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0860-design-circular-queue) |
 ## Simulation
 |  |
