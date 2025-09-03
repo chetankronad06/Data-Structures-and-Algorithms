@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
+| [0134-gas-station](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0204-count-primes) |
@@ -166,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
