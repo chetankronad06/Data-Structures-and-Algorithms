@@ -1,13 +1,27 @@
+import java.util.*;
+
 class Solution {
     public int timeRequiredToBuy(int[] tickets, int k) {
-        int time = 0;
+        int res = 0;
+        Queue<Integer> q = new ArrayDeque<>();
+
+        // add all people to queue
         for (int i = 0; i < tickets.length; i++) {
-            if (i <= k) {
-                time += Math.min(tickets[i], tickets[k]);
-            } else {
-                time += Math.min(tickets[i], tickets[k] - 1);
+            q.offer(i);
+        }
+        while (tickets[k] > 0) {
+            int i = q.poll();       
+            tickets[i]--;           
+            res++;                  
+
+            if (tickets[i] > 0) {   
+                q.offer(i);
+            }
+            if (i == k && tickets[k] == 0) {
+                return res;
             }
         }
-        return time;
+
+        return res;
     }
 }
