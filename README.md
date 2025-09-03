@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0860-design-circular-queue](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0860-design-circular-queue) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2195-time-needed-to-buy-tickets](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/2195-time-needed-to-buy-tickets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -142,10 +143,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [0232-implement-queue-using-stacks](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [0860-design-circular-queue](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0860-design-circular-queue) |
+| [2195-time-needed-to-buy-tickets](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/2195-time-needed-to-buy-tickets) |
 ## Simulation
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2195-time-needed-to-buy-tickets](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/2195-time-needed-to-buy-tickets) |
 ## Sliding Window
 |  |
 | ------- |
