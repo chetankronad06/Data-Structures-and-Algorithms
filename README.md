@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0232-implement-queue-using-stacks) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0503-next-greater-element-ii) |
 ## Counting
