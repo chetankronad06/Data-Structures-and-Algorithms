@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0338-counting-bits) |
 ## Recursion
 |  |
@@ -174,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0134-gas-station) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
