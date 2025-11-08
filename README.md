@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0860-design-circular-queue](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0860-design-circular-queue) |
+| [1603-running-sum-of-1d-array](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2195-time-needed-to-buy-tickets](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/2195-time-needed-to-buy-tickets) |
 ## Two Pointers
@@ -243,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0572-subtree-of-another-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
