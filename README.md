@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0567-permutation-in-string) |
+| [0796-rotate-string](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0796-rotate-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0796-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
