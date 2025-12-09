@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0204-count-primes](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
 | [1635-number-of-good-pairs](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/1635-number-of-good-pairs) |
+| [2652-sum-multiples](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/2652-sum-multiples) |
 ## Array
 |  |
 | ------- |
