@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0509-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/1635-number-of-good-pairs) |
+| [1922-count-good-numbers](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/1922-count-good-numbers) |
 | [2652-sum-multiples](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/2652-sum-multiples) |
 ## Array
 |  |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0206-reverse-linked-list](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/1922-count-good-numbers) |
 ## Enumeration
 |  |
 | ------- |
