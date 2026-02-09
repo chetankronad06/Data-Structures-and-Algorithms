@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0204-count-primes) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0509-fibonacci-number) |
