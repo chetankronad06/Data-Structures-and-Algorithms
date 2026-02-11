@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0008-string-to-integer-atoi](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0205-isomorphic-strings) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0078-subsets) |
