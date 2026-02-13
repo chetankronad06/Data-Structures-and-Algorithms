@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0162-find-peak-element](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0204-count-primes) |
+| [0216-combination-sum-iii](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0216-combination-sum-iii) |
 | [0283-move-zeroes](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0046-permutations](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0216-combination-sum-iii) |
 ## Tree
 |  |
 | ------- |
