@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0037-sudoku-solver](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0216-combination-sum-iii) |
