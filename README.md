@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0051-n-queens](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0242-valid-anagram) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0046-permutations](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0216-combination-sum-iii) |
 ## Tree
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0101-symmetric-tree) |
@@ -315,4 +319,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
