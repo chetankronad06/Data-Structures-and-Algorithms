@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0046-permutations](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0079-word-search) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0735-asteroid-collision) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2195-time-needed-to-buy-tickets](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/2195-time-needed-to-buy-tickets) |
@@ -319,5 +321,6 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
