@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0567-permutation-in-string) |
 | [1635-number-of-good-pairs](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/1635-number-of-good-pairs) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/1021-remove-outermost-parentheses) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0567-permutation-in-string) |
 ## Monotonic Stack
 |  |
