@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0216-combination-sum-iii](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0216-combination-sum-iii) |
 | [0283-move-zeroes](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
+| [0485-max-consecutive-ones](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
