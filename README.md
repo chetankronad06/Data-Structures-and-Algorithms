@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0509-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/1635-number-of-good-pairs) |
+| [1903-largest-odd-number-in-string](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/1922-count-good-numbers) |
 | [2652-sum-multiples](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/2652-sum-multiples) |
 ## Array
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/1903-largest-odd-number-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0134-gas-station) |
+| [1903-largest-odd-number-in-string](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/1903-largest-odd-number-in-string) |
 ## Memoization
 |  |
 | ------- |
