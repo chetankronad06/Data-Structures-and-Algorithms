@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0216-combination-sum-iii) |
+| [0238-product-of-array-except-self](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0485-max-consecutive-ones) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/1603-running-sum-of-1d-array) |
 ## Matrix
 |  |
