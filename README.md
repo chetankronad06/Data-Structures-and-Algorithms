@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0037-sudoku-solver](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0083-remove-duplicates-from-sorted-list](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
 | [0860-design-circular-queue](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0908-middle-of-the-linked-list) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0232-implement-queue-using-stacks) |
@@ -386,4 +389,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0098-validate-binary-search-tree](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0098-validate-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
