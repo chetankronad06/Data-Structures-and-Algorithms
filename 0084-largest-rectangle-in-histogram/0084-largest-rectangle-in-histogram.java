@@ -1,46 +1,44 @@
 class Solution {
     public int largestRectangleArea(int[] heights) {
+
         Stack<Integer> stack = new Stack<>();
-        int[] left = new int[heights.length];
-        int[] right = new int[heights.length];
-        for(int j=heights.length-1;j>=0;j--){
-            while(!stack.isEmpty() && heights[stack.peek()] >= heights[j]){
-                stack.pop();
+
+        int n = heights.length;
+
+        int maxArea = 0;
+
+        for(int i = 0; i < n; i++) {
+
+            while(!stack.isEmpty() &&
+                  heights[stack.peek()] > heights[i]) {
+
+                int element = stack.pop();
+
+                int nse = i;
+
+                int pse = stack.isEmpty() ? -1 : stack.peek();
+
+                int area = heights[element] * (nse - pse - 1);
+
+                maxArea = Math.max(maxArea, area);
             }
-            if(stack.empty()){
-                // map.put(nums2[j],-1);
-                right[j] = heights.length;
-            }
-            else{
-                // map.put(nums2[j],stack.peek());
-                right[j] = stack.peek();
-            }
-            stack.push(j);
+
+            stack.push(i);
         }
-        while(!stack.empty()){
-            stack.pop();
-        }
-        for(int j=0;j<heights.length;j++){
-            while(!stack.isEmpty() && heights[stack.peek()] >= heights[j]){
-                stack.pop();
-            }
-            if(stack.empty()){
-                // map.put(nums2[j],-1);
-                left[j] = -1;
-            }
-            else{
-                // map.put(nums2[j],stack.peek());
-                left[j] = stack.peek();
-            }
-            stack.push(j);
+        while(!stack.isEmpty()) {
+
+            int element = stack.pop();
+
+            int nse = n;
+
+            int pse = stack.isEmpty() ? -1 : stack.peek();
+
+            int area = heights[element] * (nse - pse - 1);
+
+            maxArea = Math.max(maxArea, area);
         }
 
-        int res = 0;
-        for(int i=0;i<heights.length;i++){
-            int width = right[i]-left[i]-1;
-            int cuurArea = heights[i] * width;
-            res = Math.max(res,cuurArea);
-        }
-        return res;
+        return maxArea;
     }
+
 }
