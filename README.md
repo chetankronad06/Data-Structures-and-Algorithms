@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0049-group-anagrams) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0146-lru-cache) |
