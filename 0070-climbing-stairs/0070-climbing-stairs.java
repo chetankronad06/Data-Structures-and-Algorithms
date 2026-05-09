@@ -1,5 +1,5 @@
 class Solution {
-    private HashMap<Integer,Integer> map = new HashMap<>();
+    HashMap<Integer,Integer> map = new HashMap<>();
     public int climbStairs(int n) {
         if(map.containsKey(n)) return map.get(n);
         if(n==0){
