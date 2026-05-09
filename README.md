@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0735-asteroid-collision](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0735-asteroid-collision) |
 | [0860-design-circular-queue](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0860-design-circular-queue) |
 | [0994-rotting-oranges](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1603-running-sum-of-1d-array](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/1635-number-of-good-pairs) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0567-permutation-in-string) |
+| [1004-max-consecutive-ones-iii](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/1004-max-consecutive-ones-iii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/1004-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/1603-running-sum-of-1d-array) |
 ## Matrix
 |  |
