@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0041-first-missing-positive](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0053-maximum-subarray) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0200-number-of-islands) |
