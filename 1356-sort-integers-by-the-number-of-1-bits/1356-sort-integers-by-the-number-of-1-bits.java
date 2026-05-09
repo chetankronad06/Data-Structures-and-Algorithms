@@ -5,7 +5,7 @@ class Solution {
             boxedarr[i] = arr[i];
         }
         
-        java.util.Arrays.sort(boxedarr, (a, b) -> {
+        Arrays.sort(boxedarr, (a, b) -> {
             int counta = Integer.bitCount(a);
             int countb = Integer.bitCount(b);
             if (counta == countb) {
