@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0136-single-number](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0204-count-primes) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0053-maximum-subarray](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0053-maximum-subarray) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0191-number-of-1-bits) |
 ## Dynamic Programming
 |  |
@@ -275,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1635-number-of-good-pairs](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/1635-number-of-good-pairs) |
