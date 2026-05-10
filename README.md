@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0216-combination-sum-iii](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0162-find-peak-element) |
+| [0300-longest-increasing-subsequence](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0704-binary-search) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0300-longest-increasing-subsequence](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0509-fibonacci-number) |
 ## Recursion
