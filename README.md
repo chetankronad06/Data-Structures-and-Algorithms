@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0503-next-greater-element-ii) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0908-middle-of-the-linked-list) |
 ## Sorting
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0455-assign-cookies) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Bit Manipulation
 |  |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0134-gas-station) |
+| [0455-assign-cookies](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0455-assign-cookies) |
 | [1903-largest-odd-number-in-string](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/1903-largest-odd-number-in-string) |
 ## Memoization
 |  |
