@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0300-longest-increasing-subsequence](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0509-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/1143-longest-common-subsequence) |
 ## Recursion
 |  |
 | ------- |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/1021-remove-outermost-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/1143-longest-common-subsequence) |
 | [1903-largest-odd-number-in-string](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/1903-largest-odd-number-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Stack
@@ -464,4 +466,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0146-lru-cache) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
