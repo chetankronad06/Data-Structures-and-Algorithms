@@ -1,4 +1,5 @@
 class Solution {
+    HashMap<Integer,Integer> map = new HashMap<>();
     public int fib(int n) {
         if(n==0){
             return 0;
@@ -6,6 +7,10 @@ class Solution {
         if(n==1){
             return 1;
         }
-        return fib(n-1)+fib(n-2);
+        if(map.containsKey(n)) return map.get(n);
+        int res = fib(n-1)+fib(n-2);
+        map.put(n,res);
+        return res;
+        
     }
 }
