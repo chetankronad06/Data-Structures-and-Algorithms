@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0994-rotting-oranges](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1603-running-sum-of-1d-array](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/1635-number-of-good-pairs) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0567-permutation-in-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/1004-max-consecutive-ones-iii) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Monotonic Stack
 |  |
 | ------- |
