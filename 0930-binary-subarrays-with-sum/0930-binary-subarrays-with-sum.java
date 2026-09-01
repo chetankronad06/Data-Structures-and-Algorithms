@@ -1,0 +1,25 @@
+class Solution {
+    public int numSubarraysWithSum(int[] nums, int goal) {
+        return helper(nums, goal) - helper(nums, goal - 1);
+    }
+
+    public int helper(int[] nums, int goal) {
+        if (goal < 0) {
+            return 0;
+        }
+        int left = 0;
+        int right = 0;
+        int sumCount = 0;
+        int sum = 0;
+        while (right < nums.length) {
+            sum += nums[right];
+            while (sum > goal) {
+                sum = sum - nums[left];
+                left++;
+            }
+            sumCount += (right - left + 1);
+            right++;
+        }
+        return sumCount;
+    }
+}
