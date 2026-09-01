@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0204-count-primes](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0509-fibonacci-number) |
+| [1248-count-number-of-nice-subarrays](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/1248-count-number-of-nice-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/1635-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/1922-count-good-numbers) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0994-rotting-oranges](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1248-count-number-of-nice-subarrays](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1603-running-sum-of-1d-array](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/1603-running-sum-of-1d-array) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0567-permutation-in-string) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0930-binary-subarrays-with-sum](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/1248-count-number-of-nice-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/1635-number-of-good-pairs) |
 ## Binary Search
 |  |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0567-permutation-in-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Monotonic Stack
 |  |
@@ -448,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/1248-count-number-of-nice-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/1603-running-sum-of-1d-array) |
 ## Matrix
 |  |
