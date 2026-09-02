@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0037-sudoku-solver](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0146-lru-cache) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0151-reverse-words-in-a-string) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0567-permutation-in-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/chetankronad06/Data-Structures-and-Algorithms/tree/master/0930-binary-subarrays-with-sum) |
